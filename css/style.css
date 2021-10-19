@@ -11,6 +11,7 @@ body {
     font-weight: 400;
     letter-spacing: 0.03em;
     line-height: 1.55em;
+    background-color: #242B33;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -77,3 +78,50 @@ a {
     margin-right: 50px;
     margin-left: 50px;
 }
+
+.main {
+    color: #FFFFFF;
+    position: relative;
+}
+
+.testimonias {
+    display: flex;
+    justify-content:center;
+    text-align: center;
+}
+.testimonias img {
+    padding-bottom: 15px;
+}
+
+.number-two {
+    position: absolute;
+    left: 76%;
+    top: 96%;
+}
+
+.loft-rooms {
+    margin-top: 95px;
+}
+.loft-rooms h2 {
+    padding-left: 107px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 48px;
+}
+.lofts {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding: 70px;
+    
+}
+.lofts figure img {
+    width: 535px;
+    height: 320px;
+}
+.lofts figcaption {
+    color: #FFFFFF;
+}
+/* .loft figure {
+    
+} */
