@@ -2,5 +2,5 @@
 
  Not pixel Perfect 
  No have hover and another some style.
- Just for Learn Creat
+ Just for Learn Creat.
  Demo https://yanzinchenko.github.io/Landing_HouseVOP/
